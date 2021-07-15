@@ -3,7 +3,10 @@
     "description": "Website for the default stylesheet.",
     "type": "project",
     "require-dev": {
-        "twig/twig": "^3.3"
+        "twig/twig": "^3.3",
+        "twig/markdown-extra": "^3.3",
+        "php": "^7.4",
+        "erusev/parsedown": "^1.7"
     },
     "license": "proprietary",
     "authors": [
