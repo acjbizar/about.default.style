@@ -1,0 +1,16 @@
+{
+    "name": "acj/about.default.style",
+    "description": "Website for the default stylesheet.",
+    "type": "project",
+    "require-dev": {
+        "twig/twig": "^3.3"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "ACJ",
+            "email": "gitlab@acjs.net"
+        }
+    ],
+    "require": {}
+}
