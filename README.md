@@ -1,6 +1,6 @@
-# about.default.style
+# [About Default.style](https://about.default.style/)
 
-Documentation for Default.style.
+Documentation for [Default.style](https://default.style/).
 
 ## TODO
 
