@@ -22,7 +22,7 @@ $twig->addRuntimeLoader(new class implements RuntimeLoaderInterface {
     }
 });
 
-$r = $twig->render('index.html.twig', ['name' => 'Fabien']);
+$r = $twig->render('index.html.twig');
 
 echo $r;
 
